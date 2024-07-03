@@ -58,11 +58,11 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: './img/fur.png/',
-    url: 'https://strong-cendol-2ebab2.netlify.app',
-    github: 'https://github.com/isa-mia/FurnitureWeb',
-    title: 'Furniture Website',
-    text: 'I crafted a furniture website utilizing HTML, CSS, and JavaScript to provide visitors with an engaging and user-friendly experience."',
+    img: './img/pagination.png/',
+    url: 'https://delightful-bonbon-630e68.netlify.app',
+    github: 'https://github.com/isa-mia/pagination',
+    title: 'Github pagination',
+    text: 'I developed a GitHub pagination page using ReactJS to enhance visitor engagement and user-friendliness.',
   },
   {
     id: nanoid(),
@@ -70,7 +70,7 @@ export const projects = [
     url: 'https://resplendent-lebkuchen-2de974.netlify.app',
     github: 'https://github.com/isa-mia/resturantWeb',
     title: 'Restaurant Website',
-    text: 'I expertly designed a restaurant website using HTML, CSS, and JavaScript to deliver an engaging and user-friendly experience for visitors."',
+    text: 'I expertly designed a restaurant website using HTML, CSS, and JavaScript to deliver an engaging and user-friendly experience for visitors.',
   },
   {
     id: nanoid(),
